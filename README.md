@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elijang98
-- 👀 I’m interested in ai and cybersecurity
+- 👀 I’m interested in ai and XR technologies
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig: @peter.simon11
